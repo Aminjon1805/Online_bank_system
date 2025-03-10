@@ -1,3 +1,4 @@
 .venv
 data.pkl
-PyWhatKit_DB.txt
+PyWhatKit_DB.txt\
+__pycache__
