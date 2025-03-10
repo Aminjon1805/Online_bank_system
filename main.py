@@ -54,11 +54,3 @@ def read_info():
     except (FileNotFoundError, EOFError):
         return []
 
-# import os
-#
-# if os.path.exists("data.pkl"):
-#     os.remove("data.pkl")
-#     print("Old data deleted!")
-# else:
-#     print("No old data found.")
-
